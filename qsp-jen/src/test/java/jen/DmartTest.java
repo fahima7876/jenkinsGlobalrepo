@@ -12,7 +12,7 @@ public class DmartTest {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get("https://www.dmartindia.com/");
+		driver.get("https://www.myntra.com/");
 	
 	
 	
